@@ -11,14 +11,13 @@ Student studying Computer Sceince at university 🎓
 </p>
 
 # Music
-I do a little music making myself.
+In my spare time I like to do a little music production. I make LoFi Hiphop/Chillhop beats for you to relax and study too 😉.
 
-[![Floating - JcbSm](https://imgur.com/a/Be5sOPB)](https://open.spotify.com/track/5ceE0UxRc2ld2ktq16NieB?si=6e7ef9900de74238)
+<a href="https://open.spotify.com/album/3hDkddqyhgLC9mZM1d6YF5?si=OHcPI5GXQFGIzs0llAna9Q">
+  <img src="./src/floating.png" style="border-radius:20px" alt="Floating - JcbSm" />
+</a>
+
 <p align="center">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=xxbn8bpuav09f9vhylfs6fefi&width=500&unique=true&count=5" /> 
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=xxbn8bpuav09f9vhylfs6fefi&cover_image=true&theme=default&show_offline=true&background_color=212121&bar_color=53b14f&bar_color_cover=true](https://spotify-github-profile.vercel.app/api/view?uid=xxbn8bpuav09f9vhylfs6fefi&cover_image=true&theme=default&show_offline=true&background_color=212121&bar_color=53b14f&bar_color_cover=true" />
  </p>
- 
-<a>
-  <img src="https://imgur.com/qhGlQEs" />
-</a>
