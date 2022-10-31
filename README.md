@@ -20,6 +20,6 @@ In my spare time I like to do a little music production. I make LoFi Hiphop/Chil
 If you're interested in what I might be listening to:
 
 <p align="center">
-  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=xxbn8bpuav09f9vhylfs6fefi&width=500&unique=true&count=5" />    
+  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=xxbn8bpuav09f9vhylfs6fefi&width=500&unique=true&count=5" />  
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=xxbn8bpuav09f9vhylfs6fefi&cover_image=true&theme=default&show_offline=true&background_color=212121&bar_color=53b14f&bar_color_cover=true](https://spotify-github-profile.vercel.app/api/view?uid=xxbn8bpuav09f9vhylfs6fefi&cover_image=true&theme=default&show_offline=true&background_color=212121&bar_color=53b14f&bar_color_cover=true" />
  </p>
