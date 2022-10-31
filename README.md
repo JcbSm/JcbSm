@@ -5,8 +5,8 @@ Student studying Computer Sceince at university 🎓
 </p>
 
 - Check out my [Valorant Agent Roulette Discord Bot](https://github.com/JcbSm/Valorant-Agent-Roulette-Discord-Bot). Fork + Host Locally.
-- I am sersiouly amature, self taught from 2019-2022.
-- Hoping to get into front-end software dev.
+- I am sersiouly amateur, self taught from 2019-2022.
+- Hoping to get into back-end software dev.
 
 # Experience
 <p align="center">
